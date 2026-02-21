@@ -37,7 +37,7 @@ I transform data into insights using SQL and Power BI.
 
 * Wrote analytical queries using joins & aggregations.
 * Generated reporting tables for business insights.
-* [View Project](link)
+* [View Project](https://github.com/OlgaChiotoglou/ecommerse-sales-sql)
 
 ---
 
