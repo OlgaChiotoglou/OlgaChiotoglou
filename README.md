@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olga Chiotoglou
+# Hi, I'm Olga Chiotoglou
 
 ### Aspiring Data Analyst
 
