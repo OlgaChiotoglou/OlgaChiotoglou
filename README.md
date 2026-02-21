@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst
 
-I transform data into insights using SQL and Power BI.
+I transform data into insights using Python, SQL and Power BI.
 
 ---
 
