@@ -51,8 +51,8 @@ This repository documents my journey of translating 20 years of expertise into a
 * Key Insights:
 * Revenue and profit trends over time
 * Market share and sales stability analysis
-*Profit quality assessment by product category
-*Identification of high-margin vs high-volume products
+* Profit quality assessment by product category
+* Identification of high-margin vs high-volume products
 **Skills Demonstrated:**
 **Financial KPI development | Variance analysis | Trend analysis | Executive dashboard design**
 
