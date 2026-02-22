@@ -1,8 +1,12 @@
 # Hi, I'm Olga Chiotoglou
 
-### Aspiring Data Analyst
+### Financial Auditor & Economist (20+ Years) | Transitioning to Data Analytics
+With 20+ of experience in financial auditing and economic analysis, I am currently pivoting my career to focus on modern data technologies. 
+My goal is to combine my deep understanding of financial performance and operational efficiency with the power of Python, SQL, and Power BI.
 
-I transform data into insights using Python, SQL and Power BI.
+While I am currently in an intensive period of technical upskilling, I bring a senior auditor’s perspective to data integrity, 
+risk assessment, and business logic. 
+This repository documents my journey of translating 20 years of expertise into automated, data-driven solutions.
 
 ---
 
@@ -10,25 +14,48 @@ I transform data into insights using Python, SQL and Power BI.
 
 ### 1. HR Analytics Report (Microsoft Power BI)
 
-* Designed an interactive dashboard analyzing HR Analytics Report transforming messy data into interactive narrative.
-* Identified headcount trends, retention and turnover drivers.
+**Business Objective:**
+* Analyze workforce trends and identify drivers of employee retention and turnover.
+* Key Highlights:
+* Cleaned and transformed HR data using Power Query
+* Designed interactive dashboard with KPIs and drill-through analysis
+* Identified headcount trends and turnover patterns
+* Highlighted key retention drivers by department and role
+**Skills Demonstrated:**
+**Data modeling | DAX measures | Workforce analytics | Business storytelling**
+  
 * [View Project](link)
 
 ---
 
 ### 2. Wine Mag Report (Microsoft Power BI)
 
-* Three key pillars of the report: Price performance, Review reliability, and the ultimate Value for Money (VFM) assessment.
-* Analysis of Price Volatility, Price and Rating Performance.
-* This report identifies the "hidden gems"—wines that have high ratings but relatively low prices (also grouping this by Country).
+**Business Objective:**
+* Evaluate price performance, review reliability, and identify high-value wines across countries.
+* Key Analysis Areas:
+* Price volatility and rating distribution
+* Correlation between price and review scores
+* “Value for Money” segmentation
+* Identification of high-rating, low-price “hidden gems”
+**Skills Demonstrated:**
+**Advanced DAX | Data segmentation | Market analysis | Comparative performance evaluation**
+
 * [View Project](link)
 
 ---
 
 ### 3. Sales Performance Analysis (Microsoft Power BI)
 
-* Executive overview of sales and profit, product performance.
-* Deeper analysis of sales stability, market share and profit quality.
+**Business Objective:**
+* Provide executive-level insights into revenue, profitability, and product performance.
+* Key Insights:
+* Revenue and profit trends over time
+* Market share and sales stability analysis
+*Profit quality assessment by product category
+*Identification of high-margin vs high-volume products
+**Skills Demonstrated:**
+**Financial KPI development | Variance analysis | Trend analysis | Executive dashboard design**
+
 * [View Project](link)
 
 ---
@@ -37,13 +64,21 @@ I transform data into insights using Python, SQL and Power BI.
 
 * Wrote analytical queries using joins & aggregations.
 * Generated reporting tables for business insights.
+* Extracted business insights from transactional data
+**Skills Demonstrated:**
+**SQL querying | Data extraction | Business reporting logic | Aggregation & grouping**
 * [View Project](https://github.com/OlgaChiotoglou/ecommerse-sales-sql)
 
 ---
 
-## 🛠 Tools
+### 5. Python Sales Analysis
 
-SQL | PostgreSQL/PgAdmin | Power BI | DAX | Excel
+## 🛠 Tools
+Power BI (Data Modeling, DAX, Power Query)
+SQL (PostgreSQL, PgAdmin)
+Python (Pandas, Matplotlib, scipy)
+Advanced Excel
+Financial reporting & performance analysis
 
 ---
 
