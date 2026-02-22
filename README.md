@@ -74,11 +74,11 @@ This repository documents my journey of translating 20 years of expertise into a
 ### 5. Python Sales Analysis
 
 ## 🛠 Tools
-Power BI (Data Modeling, DAX, Power Query)
-SQL (PostgreSQL, PgAdmin)
-Python (Pandas, Matplotlib, scipy)
-Advanced Excel
-Financial reporting & performance analysis
+* Power BI (Data Modeling, DAX, Power Query)
+* SQL (PostgreSQL, PgAdmin)
+* Python (Pandas, Matplotlib, scipy)
+* Advanced Excel
+* Financial reporting & performance analysis
 
 ---
 
