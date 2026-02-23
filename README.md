@@ -10,7 +10,8 @@ This repository documents my journey of translating 20 years of expertise into a
 
 ---
 
-## 📊 Projects
+## 📊 Power BI Projects
+* [View Readme](https://github.com/OlgaChiotoglou/Power-BI-projects/blob/main/README.md).
 
 ### 1. HR Analytics Report (Microsoft Power BI)
 
@@ -24,7 +25,7 @@ This repository documents my journey of translating 20 years of expertise into a
 **Skills Demonstrated:**
 **Data modeling | DAX measures | Workforce analytics | Business storytelling**
   
-* [View Project](link)
+* [View Project](https://github.com/OlgaChiotoglou/Power-BI-projects/tree/main/1_%20HR_People_%20Analytics_Report)
 
 ---
 
@@ -40,7 +41,7 @@ This repository documents my journey of translating 20 years of expertise into a
 **Skills Demonstrated:**
 **Advanced DAX | Data segmentation | Market analysis | Comparative performance evaluation**
 
-* [View Project](link)
+* [View Project](https://github.com/OlgaChiotoglou/Power-BI-projects/tree/main/2_Wine_Mag_Report)
 
 ---
 
@@ -56,7 +57,7 @@ This repository documents my journey of translating 20 years of expertise into a
 **Skills Demonstrated:**
 **Financial KPI development | Variance analysis | Trend analysis | Executive dashboard design**
 
-* [View Project](link)
+* [View Project](https://github.com/OlgaChiotoglou/Power-BI-projects/tree/main/3_ecommerce_sales)
 
 ---
 
