@@ -22,7 +22,9 @@ This repository documents my journey of translating 20 years of expertise into a
 * Designed interactive dashboard with KPIs and drill-through analysis
 * Identified headcount trends and turnover patterns
 * Highlighted key retention drivers by department and role
+
 **Skills Demonstrated:**
+
 **Data modeling | DAX measures | Workforce analytics | Business storytelling**
   
 * [View Project](https://github.com/OlgaChiotoglou/Power-BI-projects/tree/main/1_%20HR_People_%20Analytics_Report)
@@ -38,8 +40,10 @@ This repository documents my journey of translating 20 years of expertise into a
 * Correlation between price and review scores
 * “Value for Money” segmentation
 * Identification of high-rating, low-price “hidden gems”
+
 **Skills Demonstrated:**
-**Advanced DAX | Data segmentation | Market analysis | Comparative performance evaluation**
+
+**Data segmentation | DAX measures | Market analysis | Comparative performance evaluation**
 
 * [View Project](https://github.com/OlgaChiotoglou/Power-BI-projects/tree/main/2_Wine_Mag_Report)
 
@@ -54,8 +58,10 @@ This repository documents my journey of translating 20 years of expertise into a
 * Market share and sales stability analysis
 * Profit quality assessment by product category
 * Identification of high-margin vs high-volume products
+
 **Skills Demonstrated:**
-**Financial KPI development | Variance analysis | Trend analysis | Executive dashboard design**
+
+**Financial KPI development | DAX measures | Variance analysis | Trend analysis **
 
 * [View Project](https://github.com/OlgaChiotoglou/Power-BI-projects/tree/main/3_ecommerce_sales)
 
@@ -66,8 +72,11 @@ This repository documents my journey of translating 20 years of expertise into a
 * Wrote analytical queries using joins & aggregations.
 * Generated reporting tables for business insights.
 * Extracted business insights from transactional data
+
 **Skills Demonstrated:**
+
 **SQL querying | Data extraction | Business reporting logic | Aggregation & grouping**
+
 * [View Project](https://github.com/OlgaChiotoglou/ecommerse-sales-sql)
 
 ---
