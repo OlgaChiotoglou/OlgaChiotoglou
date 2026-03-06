@@ -1,7 +1,7 @@
 # Hi, I'm Olga Chiotoglou
 
 ### Financial Auditor & Economist (20+ Years) | Transitioning to Data Analytics
-With 20+ of experience in financial auditing and economic analysis, I am currently pivoting my career to focus on modern data technologies. 
+With 20+ years of experience in financial auditing and economic analysis, I am currently pivoting my career to focus on modern data technologies. 
 My goal is to combine my deep understanding of financial performance and operational efficiency with the power of Python, SQL, and Power BI.
 
 While I am currently in an intensive period of technical upskilling, I bring a senior auditor’s perspective to data integrity, 
