@@ -93,13 +93,16 @@ The study focuses on:
 - The relationship between browsing engagement and purchase activity
 - The impact of discounts on transaction value
 
+**Skills Demonstrated:**
+
+Python • Pandas • Matplotlib • Statistical Analysis • Data Visualization • Exploratory Data Analysis
+
 * [View Project]()
 
 ## 🛠 Tools
 * Power BI (Data Modeling, DAX, Power Query)
 * SQL (PostgreSQL, PgAdmin)
 * Python (Pandas, Matplotlib, scipy)
-* Advanced Excel
 * Financial reporting & performance analysis
 
 ---
