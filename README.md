@@ -81,7 +81,19 @@ This repository documents my journey of translating 20 years of expertise into a
 
 ---
 
-### 5. Python Sales Analysis
+### 5. Marketing and Statistical Analysis Case Study (python)
+
+The project combines exploratory data analysis with statistical testing 
+to generate business insights and marketing recommendations.
+The study focuses on:
+
+- Revenue contribution by marketing channel
+- Conversion efficiency across acquisition sources
+- Customer demographics and purchasing behavior
+- The relationship between browsing engagement and purchase activity
+- The impact of discounts on transaction value
+
+* [View Project]()
 
 ## 🛠 Tools
 * Power BI (Data Modeling, DAX, Power Query)
