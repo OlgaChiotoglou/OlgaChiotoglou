@@ -97,7 +97,7 @@ The study focuses on:
 
 Python • Pandas • Matplotlib • Statistical Analysis • Data Visualization • Exploratory Data Analysis
 
-* [View Project]()
+* [View Project](https://github.com/OlgaChiotoglou/marketing-and-statistical-analysis-python)
 
 ## 🛠 Tools
 * Power BI (Data Modeling, DAX, Power Query)
