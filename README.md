@@ -1,12 +1,12 @@
 # Hi, I'm Olga Chiotoglou
 
-### Financial Auditor & Economist (20+ Years) | Transitioning to Data Analytics
-With 20+ years of experience in financial auditing and economic analysis, I am currently pivoting my career to focus on modern data technologies. 
-My goal is to combine my deep understanding of financial performance and operational efficiency with the power of Python, SQL, and Power BI.
+### Financial Auditor & Economist (25 Years) | Data Analyst
+Bridging twenty-five years of fiduciary excellence with the precision of modern data engineering.
 
-While I am currently in an intensive period of technical upskilling, I bring a senior auditor’s perspective to data integrity, 
-risk assessment, and business logic. 
-This repository documents my journey of translating 20 years of expertise into automated, data-driven solutions.
+I specialize in synthesizing deep financial domain expertise with Python, SQL, and Power BI to transform raw audit trails into automated, high-fidelity business intelligence.
+My work focuses on the intersection of data integrity and operational efficiency—moving beyond traditional reporting to build scalable, risk-aware analytical frameworks.
+
+This repository serves as a portfolio of my transition from human-led oversight to machine-augmented financial discovery.
 
 ---
 
