@@ -3,7 +3,7 @@
 ### Financial Auditor & Economist (25 Years) | Data Analyst
 Bridging twenty-five years of fiduciary excellence with the precision of modern data engineering.
 
-I specialize in synthesizing deep financial domain expertise with Python, SQL, and Power BI to transform raw audit trails into automated, high-fidelity business intelligence.
+I specialize in synthesizing deep financial domain expertise with Python, SQL, Power BI or Tableau to transform raw audit trails into automated, high-fidelity business intelligence.
 My work focuses on the intersection of data integrity and operational efficiency—moving beyond traditional reporting to build scalable, risk-aware analytical frameworks.
 
 This repository serves as a portfolio of my transition from human-led oversight to machine-augmented financial discovery.
@@ -99,7 +99,23 @@ Python • Pandas • Matplotlib • Statistical Analysis • Data Visualization
 
 * [View Project](https://github.com/OlgaChiotoglou/marketing-and-statistical-analysis-python)
 
-### 6. Cyclistic Bike-Share: Member vs. Casual Case Study
+---
+
+### 6. Household Expenditure Analysis
+Living Costs and Food Survey 2013 – "Is There a Relationship Between Occupational Class, Tenure Type, Number of Adults, Number of Children and Household Expenditure?"
+
+Overview
+This project analyzes the relationship between household expenditure and socio-economic factors using the LCF 2013 dataset.
+
+**Skills Demonstrated:**
+
+Python • pandas • Matplotlib • numpy • seaborn • statmodels • Statistical Analysis • Data Visualization 
+
+* [View Project](https://github.com/OlgaChiotoglou/household-expenditure-analysis)
+
+---
+
+### 7. Cyclistic Bike-Share: Member vs. Casual Case Study
 
 Project Overview
 This project is part of the Google Data Analytics Professional Certificate. The goal is to analyze historical trip data from Cyclistic, 
@@ -111,16 +127,18 @@ These insights will drive a new marketing strategy aimed at converting casual ri
 Python • Pandas • Matplotlib • Data Visualization • Exploratory Data Analysis
 
 * [View Project](https://github.com/OlgaChiotoglou/Capstone-Case-Study)
-  
+
+---
+
 ## 🛠 Tools
 * Power BI (Data Modeling, DAX, Power Query)
 * SQL (PostgreSQL, PgAdmin)
-* Python (Pandas, Matplotlib, scipy)
+* Python (Pandas, Matplotlib, scipy, numpy, seaborn)
 * Financial reporting & performance analysis
 
 ---
 
-## 📫 Contact
+## Contact
 
 LinkedIn: https://www.linkedin.com/in/olga-chiotoglou-188142389/?locale=en-US
 Email: o.hiotoglou@gmail.com
