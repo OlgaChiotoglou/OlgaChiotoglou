@@ -99,6 +99,19 @@ Python • Pandas • Matplotlib • Statistical Analysis • Data Visualization
 
 * [View Project](https://github.com/OlgaChiotoglou/marketing-and-statistical-analysis-python)
 
+### 6. Cyclistic Bike-Share: Member vs. Casual Case Study
+
+Project Overview
+This project is part of the Google Data Analytics Professional Certificate. The goal is to analyze historical trip data from Cyclistic, 
+a fictional bike-share company in Chicago, to identify how annual members and casual riders use the service differently. 
+These insights will drive a new marketing strategy aimed at converting casual riders into loyal annual members.
+
+**Skills Demonstrated:**
+
+Python • Pandas • Matplotlib • Data Visualization • Exploratory Data Analysis
+
+* [View Project](https://github.com/OlgaChiotoglou/Capstone-Case-Study)
+  
 ## 🛠 Tools
 * Power BI (Data Modeling, DAX, Power Query)
 * SQL (PostgreSQL, PgAdmin)
